@@ -7,13 +7,28 @@
   <span>-</span>
   <a href="#-estado-del-proyecto" style="text-decoration: none;">Estado</a>
   <span>-</span>
-  <a href="#-demostración" style="text-decoration: none;">Demostración</a>
+  <a href="#-tecnologías-utilizadas" style="text-decoration: none;">Herramientas</a>
   <span>-</span>
-  <a href="#-acceso-al-proyecto" style="text-decoration: none;">Acceso</a>
+  <a href="#-funcionalidades" style="text-decoration: none;">Funciones</a>
   <span>-</span>
-  <a href="#-tecnologías-utilizadas" style="text-decoration: none;">Tecnologías</a>
-  <span>-</span>
-  <a href="#-funcionalidades" style="text-decoration: none;">Funcionalidades</a>
-  <span>-</span>
-  <a href="#-desarrolladores" style="text-decoration: none;">Desarrolladores</a>
+
+
+## Descripción
+"Amigo Secreto" es una aplicación web diseñada para que puedas organizar sorteos de manera sencilla e intuitiva. Es una página web ideal para eventos como intercambio de regalos, rifas, asignación de turnos, etc. 
+
+## Estado del proyecto
+La aplicación web está completamente terminada y funcional.
+
+## Funciones
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
+<div>Agregar nombres de participantes</div>
+<div>Permanencia de la lista hasta haber obtenido todos los resultados</div>
+<div>Interfaz responsiva para todos los dispositivos</div>
+<div>Validación de entrada de texto</div>
+<div>Mensajes de feedback para el usuario</div>
+<div>Botones que se habilitan/deshabilitan automáticamente</div>
 </div>
+
+<h1 align="center"> Desarrollado por Armando Rocha </h1>
+
+<h1 align="center"> ¡Si te gustó este proyecto, no olvides dejar una estrella ⭐ en el repositorio! </h1>
