@@ -11,10 +11,14 @@ let amigos = [];
 // Función para agregar un nuevo amigo a la lista
 function agregarAmigo() {
   let nuevoAmigo = inputAmigo.value.trim();
-  if (nuevoAmigo != '') {
+  let contieneNumero = [...nuevoAmigo].some(char => !isNaN(char) && char !== ' ');
+  if (nuevoAmigo != '' && !contieneNumero) {
     amigos.push(nuevoAmigo);
     crearItemLista(nuevoAmigo);
     inputAmigo.value = '';
+    mostrarResultado('');
+  } else {
+    mostrarResultado('Por favor, ingrese un nombre válido.');
   }
 }
 
