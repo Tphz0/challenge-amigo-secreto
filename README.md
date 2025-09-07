@@ -1,16 +1,6 @@
 <h1 align="center"> Juego Amigo Secreto </h1>
 <img width="1002" height="327" alt="image" src="https://github.com/user-attachments/assets/873c3e2e-fcd3-4d65-b0d9-2c61f687cb98" />
 
-## índice
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
-  <a href="#-descripción" style="text-decoration: none;">Descripción</a>
-  <span>-</span>
-  <a href="#-estado" style="text-decoration: none;">Estado</a>
-  <span>-</span>
-  <a href="#-funciones" style="text-decoration: none;">Funciones</a>
-  <span>-</span>
-
-
 ## Descripción
 "Amigo Secreto" es una aplicación web diseñada para que puedas organizar sorteos de manera sencilla e intuitiva. Es una página web ideal para eventos como intercambio de regalos, rifas, asignación de turnos, etc. 
 
@@ -29,5 +19,4 @@ La aplicación web está completamente terminada y funcional.
 
 <h1 align="center"> Desarrollado por Armando Rocha </h1>
 
-<h1 align="center"> ¡Si te gustó este proyecto, 
-no olvides dejar una estrella ⭐ en el repositorio! </h1>
+<h1 align="center"> ¡Si te gustó este proyecto, apoya dejando una estrella en el repositorio! </h1>
