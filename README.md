@@ -3,13 +3,11 @@
 
 ## índice
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
-  <a href="#-descripción-del-proyecto" style="text-decoration: none;">Descripción</a>
+  <a href="#-descripción" style="text-decoration: none;">Descripción</a>
   <span>-</span>
-  <a href="#-estado-del-proyecto" style="text-decoration: none;">Estado</a>
+  <a href="#-estado" style="text-decoration: none;">Estado</a>
   <span>-</span>
-  <a href="#-tecnologías-utilizadas" style="text-decoration: none;">Herramientas</a>
-  <span>-</span>
-  <a href="#-funcionalidades" style="text-decoration: none;">Funciones</a>
+  <a href="#-funciones" style="text-decoration: none;">Funciones</a>
   <span>-</span>
 
 
@@ -31,4 +29,5 @@ La aplicación web está completamente terminada y funcional.
 
 <h1 align="center"> Desarrollado por Armando Rocha </h1>
 
-<h1 align="center"> ¡Si te gustó este proyecto, no olvides dejar una estrella ⭐ en el repositorio! </h1>
+<h1 align="center"> ¡Si te gustó este proyecto, 
+no olvides dejar una estrella ⭐ en el repositorio! </h1>
